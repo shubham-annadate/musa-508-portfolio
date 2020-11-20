@@ -1,19 +1,19 @@
-## Portfolio
+## Shubham's Portfolio
 
 ---
 
-### Category Name 1 
+### My Past Projects 
 
-[Project 1 Title](/sample_page)
+[Loss Analysis](/sample_page)
+<img src="images/thumb1.png?raw=true"/>
+
+---
+[RG Presentation](/pdf/rg_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Clustering Analysis](http://example.com/)
+<img src="images/thumb2.png?raw=true"/>
 
 ---
 
