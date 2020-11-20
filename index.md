@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Clustering Analysis](http://example.com/)
+[Clustering Analysis](https://github.com/shubham-annadate/ucl_rl)
 <img src="images/thumb2.png?raw=true"/>
 
 ---
