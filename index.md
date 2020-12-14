@@ -3,14 +3,14 @@
 Amazing stuff about myself...
 ---
 
-### My Past Projects 
+### Assignments 
 
-[Loss Analysis](/markdowns/assignment_1.html)
-<img src="images/thumb1.png?raw=true"/>
+[Predicting Bike Share Demand in New York](/markdowns/assignment_5.html)
+<img src="images/bike_share.jpg?raw=true"/>
 
 ---
-[RG Presentation](/pdf/rg_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Improving Efficiency of HCD Tax Credit Program](/markdowns/assignment_4.html)
+<img src="images/hcd.jpg?raw=true"/>
 
 ---
 [Clustering Analysis](https://github.com/shubham-annadate/ucl_rl)
