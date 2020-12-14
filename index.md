@@ -10,11 +10,11 @@ Amazing stuff about myself...
 
 ---
 [Improving Efficiency of HCD Tax Credit Program](/markdowns/assignment_4.html)
-<img src="images/hcd.jpg?raw=true"/>
+<img src="images/hcd_new?raw=true"/>
 
 ---
 [Drug Offense Risk Modeling in San Francisco](/markdowns/assignment_3.html)
-<img src="images/pred_policing.jpg?raw=true"/>
+<img src="images/police_pred_new.png?raw=true"/>
 
 ---
 [Home Price Prediction in Miami](/markdowns/assignment_2.html)
