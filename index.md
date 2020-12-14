@@ -13,8 +13,16 @@ Amazing stuff about myself...
 <img src="images/hcd.jpg?raw=true"/>
 
 ---
-[Clustering Analysis](https://github.com/shubham-annadate/ucl_rl)
-<img src="images/thumb2.png?raw=true"/>
+[Drug Offense Risk Modeling in San Francisco](/markdowns/assignment_3.html)
+<img src="images/pred_policing.jpg?raw=true"/>
+
+---
+[Home Price Prediction in Miami](/markdowns/assignment_2.html)
+<img src="images/home_prices.jpg?raw=true"/>
+
+---
+[Transit Oriented Development in Chicago](/markdowns/assignment_3.html)
+<img src="images/tod.jpg?raw=true"/>
 
 ---
 
