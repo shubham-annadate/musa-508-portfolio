@@ -1,10 +1,11 @@
 ## Shubham's Portfolio
 
+Amazing stuff about myself...
 ---
 
 ### My Past Projects 
 
-[Loss Analysis](/sample_page)
+[Loss Analysis](/markdowns/assignment_1.html)
 <img src="images/thumb1.png?raw=true"/>
 
 ---
