@@ -1,6 +1,13 @@
 ## Shubham's Portfolio
 
 Amazing stuff about myself...
+
+### Projects 
+
+[Forecasting Wildfire Risk for a Region in California]()
+<img src="images/fire3.jpg?raw=true"/>
+
+
 ---
 
 ### Assignments 
