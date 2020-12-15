@@ -1,5 +1,6 @@
-The following projects and assignments were completed as part of the MUSA 508: Public Policy Analytics course (Fall 2020) taught at University of Pennsylvania. The course was instructed by Ken Steif, Michael Fichman, and Matthew Harris, and teaches advanced spatial analysis and application of data science/machine learning in the urban planning and public policy realm. 
+The following work was completed as part of the MUSA 508: Public Policy Analytics course (Fall 2020) taught at University of Pennsylvania. The course was instructed by Ken Steif, Michael Fichman, and Matthew Harris, and teaches advanced spatial analysis and application of data science/machine learning in the urban planning and public policy realm. 
 
+All the  projects and assignments listed below were done in collaboration with <a href="https://www.linkedin.com/in/aayush-dua-69ab61122/">Aayush Dua</a>
 ### Final Project
 
 [Forecasting Wildfire Risk for a Region in California](/markdowns/final_project.html)
