@@ -1,16 +1,13 @@
-## Shubham's Portfolio
+This work is part of the MUSA 508 class Public Policy Analytics.... includes assignments and projects... geospatial data science... taught by Ken Steif, Michael and Matt...  
 
-Amazing stuff about myself...
+### Final Project
 
-### Projects 
-
-[Forecasting Wildfire Risk for a Region in California]()
+[Forecasting Wildfire Risk for a Region in California](/markdowns/final_project.html)
 <img src="images/fire3.jpg?raw=true"/>
-
 
 ---
 
-### Assignments 
+### Other Projects and Assignments 
 
 [Predicting Bike Share Demand in New York](/markdowns/assignment_5.html)
 <img src="images/bike_share.jpg?raw=true"/>
@@ -30,21 +27,6 @@ Amazing stuff about myself...
 ---
 [Transit Oriented Development in Chicago](/markdowns/assignment_3.html)
 <img src="images/tod.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
