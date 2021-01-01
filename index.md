@@ -26,7 +26,7 @@ All the  projects and assignments listed below were done in collaboration with <
 <img src="images/home_prices.jpg?raw=true"/>
 
 ---
-[Transit Oriented Development in Chicago](/markdowns/assignment_3.html)
+[Transit Oriented Development in Chicago](/markdowns/assignment_1.html)
 <img src="images/tod.jpg?raw=true"/>
 
 ---
